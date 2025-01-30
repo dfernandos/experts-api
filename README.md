@@ -13,7 +13,7 @@ To run this project, follow the steps below:
 
 1. Clone this repository:
    ```sh
-   git clone <REPOSITORY_URL>
+   git clone git@github.com:dfernandos/experts-api.git
    cd experts-api
    ```
 
